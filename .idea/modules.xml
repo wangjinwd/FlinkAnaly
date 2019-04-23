@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DsCommon/DsCommon.iml" filepath="$PROJECT_DIR$/DsCommon/DsCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DsInfoService/DsInfoService.iml" filepath="$PROJECT_DIR$/DsInfoService/DsInfoService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlinkAnaly.iml" filepath="$PROJECT_DIR$/FlinkAnaly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlinkStreaming/FlinkStreaming.iml" filepath="$PROJECT_DIR$/FlinkStreaming/FlinkStreaming.iml" />
+    </modules>
+  </component>
+</project>

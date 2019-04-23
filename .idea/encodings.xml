@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/DsInfoService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DsInfoService/src/main/java/com/wangjin/control/KafkaProducerConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DsInfoService/src/main/java/com/wangjin/data/Scanlogproduce.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DsInfoService/src/main/java/com/wangjin/kafka/KafkaProducerConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DsInfoService/src/test/java/kafka/KafkaProducerConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/FlinkStreaming" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

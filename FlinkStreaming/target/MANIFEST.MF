@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.6.1
+Built-By: WJ
+Implementation-Vendor-Id: org.apache.flink
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_101
+Specification-Version: 1.6.1
+
